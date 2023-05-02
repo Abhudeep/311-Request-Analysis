@@ -24,3 +24,5 @@ Project involved data analysis of service request (311) calls from New York City
 5. Check if the average response time across various types of complaints
 
 6. Identify significant variables by performing a statistical analysis using p-values and chi-square values
+
+To download the detailed probelm statement click here - https://lms.simplilearn.com/user/project/download-attachment?file=1667467954_project_02_customer_service_requests_analysis_caltech.pdf 
